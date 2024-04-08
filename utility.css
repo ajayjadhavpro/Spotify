@@ -1,0 +1,11 @@
+/* width */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #555 #333;
+  }
+  
+  /* Handle on hover */
+  *::-webkit-scrollbar-thumb:hover {
+    background: #777;
+  }
+  
